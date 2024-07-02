@@ -137,14 +137,14 @@ const getInnerHTML = () => {
   .platform-choice .platform-item .platform-radio-box {
     width: 16px;
     height: 16px;
-    background: url('https://image.nicelinks.site/radio2.jpeg');
+    background: url('//lovejade.oss-cn-shenzhen.aliyuncs.com/radio2.jpeg');
     display: block;
     float: left;
     margin-right: 15px;
   }
   
   .platform-choice .platform-item .platform-checked {
-    background: url('https://image.nicelinks.site/radio1.jpeg');
+    background: url('//lovejade.oss-cn-shenzhen.aliyuncs.com/radio1.jpeg');
   }
   
   .platform-choice .platform-logo {
@@ -157,11 +157,11 @@ const getInnerHTML = () => {
   }
 
   .platform-choice .alipay {
-    background-image: url('https://image.nicelinks.site/alipay.jpeg');
+    background-image: url('//lovejade.oss-cn-shenzhen.aliyuncs.com/alipay.jpeg');
   }
   
   .platform-choice .weichat {
-    background-image: url('https://image.nicelinks.site/wechat.jpeg');
+    background-image: url('//lovejade.oss-cn-shenzhen.aliyuncs.com/wechat.jpeg');
   }  
   </style>
  
@@ -171,8 +171,8 @@ const getInnerHTML = () => {
       <a href="javascript:;" aria-label="Close Modal" class="close-modal" id="close-modal"></a>
       <p class="reward-thx">感谢您的支持，我将继续努力！</p>
       <div class="reward-img-div">
-        <img class="reward-qr-img weichat active" src="//image.nicelinks.site/weixin_pay.jpg" alt="微信赞助" />
-        <img class="reward-qr-img alipay" src="//image.nicelinks.site/zhifubao_pay.jpg" alt="支付宝赞助" />
+        <img class="reward-qr-img weichat active" src="//lovejade.oss-cn-shenzhen.aliyuncs.com/weixin_pay.jpeg" alt="微信赞助" />
+        <img class="reward-qr-img alipay" src="//lovejade.oss-cn-shenzhen.aliyuncs.com/zhifubao_pay.jpeg" alt="支付宝赞助" />
       </div>
       <div id="reward-jade-moudle" node-type="platform-choice" class="platform-choice clearfix">
         <div class="platform-item">
